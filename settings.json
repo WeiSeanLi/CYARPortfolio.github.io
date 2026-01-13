@@ -1,0 +1,16 @@
+{
+    "hero": {
+        "title": "CYAR\n62nd",
+        "subtitle": "Chung Yuan Christian University",
+        "image": "/kv.jpg"
+    },
+    "about": {
+        "title": "About The Exhibition",
+        "content": "Welcome to the 2026 Graduation Show of the Department of Architecture. This exhibition showcases the culmination of five years of design research, exploration, and creativity.\n\nThrough a diverse range of projects spanning urban design, housing solutions, landscape architecture, tectonics, and architectural theory, our graduating students present their visions for the future of our built environment.",
+        "image": "https://placehold.co/1920x800/eeeeee/333333?text=About+Exhibition"
+    },
+    "social": {
+        "facebook": "https://www.facebook.com",
+        "instagram": "https://www.instagram.com"
+    }
+}
