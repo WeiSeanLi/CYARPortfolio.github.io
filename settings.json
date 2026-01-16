@@ -1,16 +1,84 @@
 {
-    "hero": {
-        "title": "CYAR\n62nd",
-        "subtitle": "Chung Yuan Christian University",
-        "image": "/kv.jpg"
+  "hero": {
+    "title": "CYAR\n62nd",
+    "subtitle": "CYCU Department of Architecture",
+    "deptUrl": "https://arch.cycu.edu.tw/",
+    "image": "/kv.jpg"
+  },
+  "about": {
+    "title": "中原大學建築系\n第62屆畢業展覽",
+    "content": "【關於我們】\n我們是中原大學建築系第62屆畢業生。\n\n建築不只是空間的堆砌，更是對生活的觀察與回應。在中原建築的五年時光裡，我們不斷探索人、環境與社會的關係。透過無數個熬夜趕圖的夜晚，與一次次評圖的挑戰，我們逐漸構築出屬於自己的設計語彙。\n\n第62屆畢業展覽匯集了我們對未來的想像與對現況的反思。每一件作品都承載著創作者的靈魂，試圖在混亂的世界中尋找秩序，在平凡的日常中創造驚奇。\n\n誠摯邀請您前來參與這場思想的對話，見證我們五年來的成長與蛻變。",
+    "image": "/kv.jpg",
+    "date": "2026/06/06 (六) - 2026/06/21 (日)",
+    "location": "中原文創園區 (Chung Yuan Cultural and Creative Park)",
+    "locationUrl": "https://cycc.org.tw",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=中原文創園區+Chung+Yuan+Cultural+and+Creative+Park",
+    "hours": "每日 10:00 - 18:00 (免費參觀)"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/2026CYAR62st",
+    "instagram": "https://www.instagram.com/cyar_62nd_2026/"
+  },
+  "sponsors": [
+    {
+      "name": "中原大學",
+      "logo": "/uploads/sponsors/中原大學.png",
+      "url": "https://www.cycu.edu.tw/"
     },
-    "about": {
-        "title": "About The Exhibition",
-        "content": "Welcome to the 2026 Graduation Show of the Department of Architecture. This exhibition showcases the culmination of five years of design research, exploration, and creativity.\n\nThrough a diverse range of projects spanning urban design, housing solutions, landscape architecture, tectonics, and architectural theory, our graduating students present their visions for the future of our built environment.",
-        "image": "https://placehold.co/1920x800/eeeeee/333333?text=About+Exhibition"
-    },
-    "social": {
-        "facebook": "https://www.facebook.com",
-        "instagram": "https://www.instagram.com"
+    {
+      "name": "中原建築",
+      "logo": "/uploads/sponsors/中原建築.png",
+      "url": "https://arch.cycu.edu.tw/"
     }
+  ],
+  "categories": [
+    {
+      "id": "Urban Design",
+      "label": "Urban Design",
+      "desc": "重新定義城市景觀與公共空間的設計想像。",
+      "image": "/mock/project_land.png"
+    },
+    {
+      "id": "Housing",
+      "label": "Housing",
+      "desc": "探索當代居住型態與住宅類型的創新可能。",
+      "image": "/mock/project_land.png"
+    },
+    {
+      "id": "Landscape",
+      "label": "Landscape",
+      "desc": "思考自然生態與人造環境的共生與融合。",
+      "image": "/mock/project_land.png"
+    },
+    {
+      "id": "Tectonics",
+      "label": "Tectonics",
+      "desc": "鑽研材料特性、構築工法與結構系統的革新。",
+      "image": "/mock/project_land.png"
+    },
+    {
+      "id": "Theory",
+      "label": "Theory",
+      "desc": "建構建築哲學思辨與批判性設計論述。",
+      "image": "/mock/project_land.png"
+    }
+  ],
+  "events": [
+    {
+      "title": "New Event",
+      "date": "2026/06/05",
+      "time": "14:00 - 16:00",
+      "location": "",
+      "description": "222222",
+      "image": ""
+    },
+    {
+      "title": "New Event",
+      "date": "",
+      "time": "",
+      "location": "",
+      "description": "",
+      "image": ""
+    }
+  ]
 }
