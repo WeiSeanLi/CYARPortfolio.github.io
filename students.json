@@ -64,7 +64,7 @@
     "category": "Tectonics",
     "year": "2026",
     "shortDesc": "gerhgierhgguheaughea",
-    "description": "agkjrbegaghaduiphvuirenguaehgh8ae98h87hgjaeiojh",
+    "description": "幫您檢查了截圖，這種排版跑版的問題通常是因為字串太長（例如無空白的連續英文或亂數文字），導致瀏覽器不知道在哪裡斷行。\n\n我已經在學生頁面的「作品說明 (Statement)」區塊加入了 自動斷行 (break-words) 的設定。\n\n現在即使遇到很長的連續文字，它也會乖乖在手機邊緣自動換行，不會再撐爆版面了。請您重新整理頁面試試看",
     "image": "/uploads/students/李維翔/Card.jpg",
     "heroImage": "/uploads/students/李維翔/00.jpg",
     "images": [
@@ -384,10 +384,10 @@
     "name": "周昆弘",
     "advisor": "張全智",
     "title": "Test title",
-    "category": "Tectonics",
+    "category": "Urban Design",
     "year": "2026",
-    "shortDesc": 1111,
-    "description": "",
+    "shortDesc": "春眠不覺曉",
+    "description": "春眠不覺曉處處聞啼鳥",
     "image": "/uploads/students/周昆弘/Card.jpg",
     "heroImage": "/uploads/students/周昆弘/00.jpg",
     "images": [
