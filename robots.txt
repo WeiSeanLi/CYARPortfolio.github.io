@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cyar-62nd.netlify.app/sitemap.xml

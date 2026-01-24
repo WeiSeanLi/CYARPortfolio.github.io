@@ -133,6 +133,7 @@
     }
   ],
   "global": {
-    "profileRatio": "2/3"
+    "profileRatio": "2/3",
+    "favicon": "/uploads/site/icon.png"
   }
 }
